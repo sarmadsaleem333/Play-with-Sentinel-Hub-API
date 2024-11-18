@@ -1,0 +1,1 @@
+# Play-with-Sentinel-Hub-API
